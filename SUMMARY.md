@@ -9,4 +9,7 @@
   * [(6) Interfaces](./typescript/06-typescript-interfaces.md)
   * [(7) Module](./typescript/07-typescript-module.md)
   * [(8) Iterator](./typescript/08-typescript-iterator.md)
+  * [(9) Generic](./typescript/09-typescript-generic.md)
+  * [(10) Arrow function](./typescript/10-typescript-arrow-function.md)
 
+  
